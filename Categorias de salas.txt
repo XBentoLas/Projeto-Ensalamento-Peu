@@ -1,0 +1,37 @@
+Delta
+
+multim60 	- multimedia 60
+multim90	- multimedia 90
+labinfg 	- laboratorio info grafico
+labinfg24       - laboratorio info grafico 24 maquinas
+labinf		- laboratorio info
+labinfpad 	- laboratorio info padrão
+labinfpad20	- laboratorio info padrão 20
+Auditorio120    - auditório 120 multimedia
+labmac		- laboratorio mac
+
+Epsilon
+
+multim70	- multimedia 70
+multim100	- multimedia 100
+labanat		- laboratorio anatomia
+labmulti	- laboratorio multidisciplinar
+projadm		- Sala de projetos adm/comex
+
+Lambda
+
+comum60		- Sala comum 60
+comum90		- Sala comum 90
+multim60	- multimedia 60
+multim90	- multimedia 90
+labinf		- laboratorio info
+labinfo20	- laboratorio info 20 maquinas
+clinica1	- Clinica 1
+clinica2	- Clinica 2
+labmulti	- laboratorio multidisciplinar
+autoefin	- Autos e findos
+
+Omicron
+
+multim90	- multimedia 90
+multim100	- multimedia 100
