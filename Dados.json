@@ -1,0 +1,16 @@
+[
+  { "turma": "Turma 1", "quantidade_alunos": 30 },
+  { "turma": "Turma 2", "quantidade_alunos": 50 },
+  { "turma": "Turma 3", "quantidade_alunos": 60 },
+  { "turma": "Turma 4", "quantidade_alunos": 55 },
+  { "turma": "Turma 5", "quantidade_alunos": 30 },
+  { "turma": "Turma 6", "quantidade_alunos": 65 },
+  { "turma": "Turma 7", "quantidade_alunos": 95 },
+  { "turma": "Turma 8", "quantidade_alunos": 60 },
+  { "turma": "Turma 9", "quantidade_alunos": 70 },
+  { "turma": "Turma 10", "quantidade_alunos": 85 },
+  { "turma": "Turma 11", "quantidade_alunos": 15 },
+  { "turma": "Turma 12", "quantidade_alunos": 10 },
+  { "turma": "Turma 13", "quantidade_alunos": 18 },
+  { "turma": "Turma 14", "quantidade_alunos": 30 }
+]
