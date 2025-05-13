@@ -1,0 +1,80 @@
+[
+    {
+        "sala": "O-221",
+        "Predio": "OMICRON",
+        "capacidade": "100",
+        "tipo": "Multim"
+    },
+    {
+        "sala": "O-311",
+        "Predio": "OMICRON",
+        "capacidade": "90",
+        "tipo": "Multim"
+    },
+    {
+        "sala": "O-312",
+        "Predio": "OMICRON",
+        "capacidade": "90",
+        "tipo": "Multim"
+    },
+    {
+        "sala": "O-321",
+        "Predio": "OMICRON",
+        "capacidade": "90",
+        "tipo": "Multim"
+    },
+    {
+        "sala": "O-322",
+        "Predio": "OMICRON",
+        "capacidade": "90",
+        "tipo": "Multim"
+    },
+    {
+        "sala": "O-411",
+        "Predio": "OMICRON",
+        "capacidade": "90",
+        "tipo": "Multim"
+    },
+    {
+        "sala": "O-412",
+        "Predio": "OMICRON",
+        "capacidade": "90",
+        "tipo": "Multim"
+    },
+    {
+        "sala": "O-421",
+        "Predio": "OMICRON",
+        "capacidade": "90",
+        "tipo": "Multim"
+    },
+    {
+        "sala": "O-422",
+        "Predio": "OMICRON",
+        "capacidade": "90",
+        "tipo": "Multim"
+    },
+    {
+        "sala": "O-511",
+        "Predio": "OMICRON",
+        "capacidade": "90",
+        "tipo": "Multim"
+    },
+    {
+        "sala": "O-512",
+        "Predio": "OMICRON",
+        "capacidade": "90",
+        "tipo": "Multim"
+    },
+    {
+        "sala": "O-521",
+        "Predio": "OMICRON",
+        "capacidade": "90",
+        "tipo": "Multim"
+    },
+    {
+        "sala": "O-522",
+        "Predio": "OMICRON",
+        "capacidade": "90",
+        "tipo": "Multim"
+    }
+]
