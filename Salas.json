@@ -1,80 +1,184 @@
 [
-    {
-        "sala": "O-221",
-        "Predio": "OMICRON",
-        "capacidade": "100",
-        "tipo": "Multim"
-    },
-    {
-        "sala": "O-311",
-        "Predio": "OMICRON",
-        "capacidade": "90",
-        "tipo": "Multim"
-    },
-    {
-        "sala": "O-312",
-        "Predio": "OMICRON",
-        "capacidade": "90",
-        "tipo": "Multim"
-    },
-    {
-        "sala": "O-321",
-        "Predio": "OMICRON",
-        "capacidade": "90",
-        "tipo": "Multim"
-    },
-    {
-        "sala": "O-322",
-        "Predio": "OMICRON",
-        "capacidade": "90",
-        "tipo": "Multim"
-    },
-    {
-        "sala": "O-411",
-        "Predio": "OMICRON",
-        "capacidade": "90",
-        "tipo": "Multim"
-    },
-    {
-        "sala": "O-412",
-        "Predio": "OMICRON",
-        "capacidade": "90",
-        "tipo": "Multim"
-    },
-    {
-        "sala": "O-421",
-        "Predio": "OMICRON",
-        "capacidade": "90",
-        "tipo": "Multim"
-    },
-    {
-        "sala": "O-422",
-        "Predio": "OMICRON",
-        "capacidade": "90",
-        "tipo": "Multim"
-    },
-    {
-        "sala": "O-511",
-        "Predio": "OMICRON",
-        "capacidade": "90",
-        "tipo": "Multim"
-    },
-    {
-        "sala": "O-512",
-        "Predio": "OMICRON",
-        "capacidade": "90",
-        "tipo": "Multim"
-    },
-    {
-        "sala": "O-521",
-        "Predio": "OMICRON",
-        "capacidade": "90",
-        "tipo": "Multim"
-    },
-    {
-        "sala": "O-522",
-        "Predio": "OMICRON",
-        "capacidade": "90",
-        "tipo": "Multim"
-    }
+  {
+    "sala": "O-221",
+    "predio": "OMICRON",
+    "capacidade": 100,
+    "tipo": "Multim",
+    "disponibilidade": [
+      { "dia": "segunda", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "terça", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quarta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quinta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "sexta", "inicio": "08:00", "fim": "18:00" }
+    ],
+    "ocupacoes": []
+  },
+  {
+    "sala": "O-311",
+    "predio": "OMICRON",
+    "capacidade": 90,
+    "tipo": "Multim",
+    "disponibilidade": [
+      { "dia": "segunda", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "terça", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quarta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quinta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "sexta", "inicio": "08:00", "fim": "18:00" }
+    ],
+    "ocupacoes": []
+  },
+  {
+    "sala": "O-312",
+    "predio": "OMICRON",
+    "capacidade": 90,
+    "tipo": "Multim",
+    "disponibilidade": [
+      { "dia": "segunda", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "terça", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quarta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quinta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "sexta", "inicio": "08:00", "fim": "18:00" }
+    ],
+    "ocupacoes": []
+  },
+  {
+    "sala": "O-321",
+    "predio": "OMICRON",
+    "capacidade": 90,
+    "tipo": "Multim",
+    "disponibilidade": [
+      { "dia": "segunda", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "terça", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quarta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quinta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "sexta", "inicio": "08:00", "fim": "18:00" }
+    ],
+    "ocupacoes": []
+  },
+  {
+    "sala": "O-322",
+    "predio": "OMICRON",
+    "capacidade": 90,
+    "tipo": "Multim",
+    "disponibilidade": [
+      { "dia": "segunda", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "terça", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quarta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quinta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "sexta", "inicio": "08:00", "fim": "18:00" }
+    ],
+    "ocupacoes": []
+  },
+  {
+    "sala": "O-411",
+    "predio": "OMICRON",
+    "capacidade": 90,
+    "tipo": "Multim",
+    "disponibilidade": [
+      { "dia": "segunda", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "terça", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quarta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quinta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "sexta", "inicio": "08:00", "fim": "18:00" }
+    ],
+    "ocupacoes": []
+  },
+  {
+    "sala": "O-412",
+    "predio": "OMICRON",
+    "capacidade": 90,
+    "tipo": "Multim",
+    "disponibilidade": [
+      { "dia": "segunda", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "terça", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quarta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quinta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "sexta", "inicio": "08:00", "fim": "18:00" }
+    ],
+    "ocupacoes": []
+  },
+  {
+    "sala": "O-421",
+    "predio": "OMICRON",
+    "capacidade": 90,
+    "tipo": "Multim",
+    "disponibilidade": [
+      { "dia": "segunda", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "terça", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quarta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quinta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "sexta", "inicio": "08:00", "fim": "18:00" }
+    ],
+    "ocupacoes": []
+  },
+  {
+    "sala": "O-422",
+    "predio": "OMICRON",
+    "capacidade": 90,
+    "tipo": "Multim",
+    "disponibilidade": [
+      { "dia": "segunda", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "terça", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quarta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quinta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "sexta", "inicio": "08:00", "fim": "18:00" }
+    ],
+    "ocupacoes": []
+  },
+  {
+    "sala": "O-511",
+    "predio": "OMICRON",
+    "capacidade": 90,
+    "tipo": "Multim",
+    "disponibilidade": [
+      { "dia": "segunda", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "terça", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quarta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quinta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "sexta", "inicio": "08:00", "fim": "18:00" }
+    ],
+    "ocupacoes": []
+  },
+  {
+    "sala": "O-512",
+    "predio": "OMICRON",
+    "capacidade": 90,
+    "tipo": "Multim",
+    "disponibilidade": [
+      { "dia": "segunda", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "terça", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quarta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quinta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "sexta", "inicio": "08:00", "fim": "18:00" }
+    ],
+    "ocupacoes": []
+  },
+  {
+    "sala": "O-521",
+    "predio": "OMICRON",
+    "capacidade": 90,
+    "tipo": "Multim",
+    "disponibilidade": [
+      { "dia": "segunda", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "terça", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quarta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quinta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "sexta", "inicio": "08:00", "fim": "18:00" }
+    ],
+    "ocupacoes": []
+  },
+  {
+    "sala": "O-522",
+    "predio": "OMICRON",
+    "capacidade": 90,
+    "tipo": "Multim",
+    "disponibilidade": [
+      { "dia": "segunda", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "terça", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quarta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "quinta", "inicio": "08:00", "fim": "18:00" },
+      { "dia": "sexta", "inicio": "08:00", "fim": "18:00" }
+    ],
+    "ocupacoes": []
+  }
 ]

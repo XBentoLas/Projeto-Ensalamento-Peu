@@ -1,22 +1,25 @@
 [
-  { 
-    "turma": "Turma 1",
-    "quantidade_alunos": 30,
-   "tipo de sala" : "multim"
+  {
+  "turma": "Turma 1",
+  "quantidade_alunos": 30,
+  "aulas": [
+    { "dia": "segunda", "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" },
+    { "dia": "terça",  "inicio": "08:00", "fim": "12:00", "tipo_sala": "lab" },
+    { "dia": "quarta", "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" },
+    { "dia": "quinta", "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" },
+    { "dia": "sexta",  "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" }
+  ]
   },
-  { 
-    "turma": "Turma 2",
-    "quantidade_alunos": 25,
-   "tipo de sala" : "multim"
-  },
-  { 
-    "turma": "Turma 3",
-    "quantidade_alunos": 20,
-   "tipo de sala" : "multim"
-  },
-  { 
-    "turma": "Turma 4",
-    "quantidade_alunos": 15,
-   "tipo de sala" : "Clinica"
+  {
+  "turma": "Turma 2",
+  "quantidade_alunos": 60,
+  "aulas": [
+    { "dia": "segunda", "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" },
+    { "dia": "terça",  "inicio": "08:00", "fim": "12:00", "tipo_sala": "lab" },
+    { "dia": "quarta", "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" },
+    { "dia": "quinta", "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" },
+    { "dia": "sexta",  "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" }
+  ]
   }
+
 ]
