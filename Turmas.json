@@ -3,22 +3,22 @@
   "turma": "Turma 1",
   "quantidade_alunos": 30,
   "aulas": [
-    { "dia": "segunda", "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" },
-    { "dia": "terça",  "inicio": "08:00", "fim": "12:00", "tipo_sala": "lab" },
-    { "dia": "quarta", "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" },
-    { "dia": "quinta", "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" },
-    { "dia": "sexta",  "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" }
+    { "dia": "segunda", "inicio": "08:00", "fim": "12:00", "tipo_sala": "Multim" },
+    { "dia": "terça",  "inicio": "08:00", "fim": "12:00", "tipo_sala": "Multim" },
+    { "dia": "quarta", "inicio": "08:00", "fim": "12:00", "tipo_sala": "Multim" },
+    { "dia": "quinta", "inicio": "08:00", "fim": "12:00", "tipo_sala": "Multim" },
+    { "dia": "sexta",  "inicio": "08:00", "fim": "12:00", "tipo_sala": "Multim" }
   ]
   },
   {
   "turma": "Turma 2",
   "quantidade_alunos": 60,
   "aulas": [
-    { "dia": "segunda", "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" },
-    { "dia": "terça",  "inicio": "08:00", "fim": "12:00", "tipo_sala": "lab" },
-    { "dia": "quarta", "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" },
-    { "dia": "quinta", "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" },
-    { "dia": "sexta",  "inicio": "08:00", "fim": "12:00", "tipo_sala": "multim" }
+    { "dia": "segunda", "inicio": "08:00", "fim": "12:00", "tipo_sala": "Multim" },
+    { "dia": "terça",  "inicio": "08:00", "fim": "12:00", "tipo_sala": "Multim" },
+    { "dia": "quarta", "inicio": "08:00", "fim": "12:00", "tipo_sala": "Multim" },
+    { "dia": "quinta", "inicio": "08:00", "fim": "12:00", "tipo_sala": "Multim" },
+    { "dia": "sexta",  "inicio": "08:00", "fim": "12:00", "tipo_sala": "Multim" }
   ]
   }
 

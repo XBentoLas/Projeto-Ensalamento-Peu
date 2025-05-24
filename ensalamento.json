@@ -1,0 +1,66 @@
+[
+  {
+    "turma": "Turma 1",
+    "sala": "O-221",
+    "predio": "OMICRON",
+    "dia": "segunda",
+    "inicio": "08:00",
+    "fim": "12:00"
+  },
+  {
+    "turma": "Turma 1",
+    "sala": "O-221",
+    "predio": "OMICRON",
+    "dia": "quarta",
+    "inicio": "08:00",
+    "fim": "12:00"
+  },
+  {
+    "turma": "Turma 1",
+    "sala": "O-221",
+    "predio": "OMICRON",
+    "dia": "quinta",
+    "inicio": "08:00",
+    "fim": "12:00"
+  },
+  {
+    "turma": "Turma 1",
+    "sala": "O-221",
+    "predio": "OMICRON",
+    "dia": "sexta",
+    "inicio": "08:00",
+    "fim": "12:00"
+  },
+  {
+    "turma": "Turma 2",
+    "sala": "O-311",
+    "predio": "OMICRON",
+    "dia": "segunda",
+    "inicio": "08:00",
+    "fim": "12:00"
+  },
+  {
+    "turma": "Turma 2",
+    "sala": "O-311",
+    "predio": "OMICRON",
+    "dia": "quarta",
+    "inicio": "08:00",
+    "fim": "12:00"
+  },
+  {
+    "turma": "Turma 2",
+    "sala": "O-311",
+    "predio": "OMICRON",
+    "dia": "quinta",
+    "inicio": "08:00",
+    "fim": "12:00"
+  },
+  {
+    "turma": "Turma 2",
+    "sala": "O-311",
+    "predio": "OMICRON",
+    "dia": "sexta",
+    "inicio": "08:00",
+    "fim": "12:00"
+  }
+]
