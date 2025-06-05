@@ -35,3 +35,11 @@ Omicron
 
 multim90	- multimedia 90
 multim100	- multimedia 100
+
+
+pontos do algoritmo
+-manter mesma Sala
+-manter mesmo andar
+-manter mesmo predio
+-implementar randomização ou seeds
+-possivel segundo algoritmo para filtrar as várias seeds
